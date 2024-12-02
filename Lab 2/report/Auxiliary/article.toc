@@ -1,0 +1,43 @@
+\contentsline {section}{\numberline {1}一般原理}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}与穷举的联系}{3}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}剪枝}{3}{subsubsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.2}一般步骤}{4}{subsection.1.2}%
+\contentsline {section}{\numberline {2}问题}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}NP 完全证明}{4}{subsection.2.1}%
+\contentsline {section}{\numberline {3}算法设计}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}回溯法求解}{6}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}算法描述}{6}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}算法效率}{6}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}动态规划求解}{6}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}最优子结构性质}{6}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}递归计算最优值}{9}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}构造最优解}{11}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}算法效率}{11}{subsubsection.3.2.4}%
+\contentsline {paragraph}{时间复杂度}{11}{paragraph*.2}%
+\contentsline {paragraph}{空间复杂度}{12}{paragraph*.3}%
+\contentsline {subsection}{\numberline {3.3}算法比较}{13}{subsection.3.3}%
+\contentsline {section}{\numberline {4}近似求解}{13}{section.4}%
+\contentsline {subsection}{\numberline {4.1}最近邻贪心算法}{13}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}最小生成树欧拉图+最小权重匹配}{13}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}对交换}{15}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}模拟蚁群算法（ACS）}{17}{subsection.4.4}%
+\contentsline {section}{\numberline {5}运行结果分析}{20}{section.5}%
+\contentsline {subsection}{\numberline {5.1}人工生成 $n=10$}{20}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}准确算法}{20}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}近似算法}{24}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.2}随机生成 $n=100$}{26}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}修改的随机生成 $n=100$}{28}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}实际城市数据（中国各省会距离）测试}{30}{subsection.5.4}%
+\contentsline {section}{\numberline {6}算法改进}{32}{section.6}%
+\contentsline {subsection}{\numberline {6.1}回溯法改进}{32}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}动态规划法改进}{32}{subsection.6.2}%
+\contentsline {section}{\numberline {7}总结}{33}{section.7}%
+\contentsline {section}{\numberline {A}关键源码}{36}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}回溯法}{36}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}动态规划}{37}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.3}最近邻贪心算法}{40}{subsection.A.3}%
+\contentsline {subsection}{\numberline {A.4}最小生成树欧拉图 + 最小权重匹配}{41}{subsection.A.4}%
+\contentsline {subsection}{\numberline {A.5}对交换}{47}{subsection.A.5}%
+\contentsline {subsection}{\numberline {A.6}模拟蚁群算法（ACS）}{49}{subsection.A.6}%
+\contentsline {subsection}{\numberline {A.7}改进的回溯法}{53}{subsection.A.7}%
+\contentsline {subsection}{\numberline {A.8}改进的动态规划}{56}{subsection.A.8}%
